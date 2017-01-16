@@ -1,2 +1,1 @@
-# salesforce-wef-vr
-Student Instructons for Salesforce WEF VR Workshop
+# Student Instructions for Salesforce WEF VR Workshop
