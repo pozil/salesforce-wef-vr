@@ -1,1 +1,1 @@
-# Student Instructions for Salesforce WEF VR Workshop
+# Student Instructions for Salesforce Shelter VR Workshop

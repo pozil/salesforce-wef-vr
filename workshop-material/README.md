@@ -1,4 +1,4 @@
-# Login information for the Shelter Project
+## Login information for the Shelter Project
 
 To login to salesforce, access this link:
 https://login.salesforce.com
@@ -10,3 +10,13 @@ Where *xx* is to be replaced by your provided Org number (example: 02)
 
 **Password:**
 Use the provided 5 digit pin.
+
+## Deliverables
+
+File/Folder | Description
+--- | ---
+Instructions | PDF version of student instructions
+Solutions | Link to completed code packages for application implementation activity
+asset-bundle-builder.zip | Used for bonus activity (no need to distribute it ahead)
+data-checker.zip | Used to perform verification of data modeling activity
+object_definition_extract.zip | Used to import object definition data after data modeling activity
