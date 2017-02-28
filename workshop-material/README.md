@@ -13,8 +13,10 @@ Use the provided 5 digit pin.
 
 ## Deliverables
 
-File | Description
+File/Folder | Description
 --- | ---
+Instructions | PDF version of student instructions
+Solutions | Completed code extracts for app implementation activity
 asset-bundle-builder.zip | Used for bonus activity (no need to distribute it ahead)
 data-checker.zip | Used to perform verification of data modeling activity
 object_definition_extract.zip | Used to import object definition data after data modeling activity
