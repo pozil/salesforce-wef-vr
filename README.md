@@ -1,1 +1,1 @@
-# Student Instructions for Salesforce Shelter VR Workshop
+# Salesforce Shelter VR Workshop
