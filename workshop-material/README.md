@@ -18,6 +18,7 @@ File/Folder | Description
 mentor-tools | Tools provided to mentors to reset student orgs and deploy solutions
 student-instructions | PDF version of the student instructions
 solutions | Link to completed code packages for application implementation activity
+app-icon-128x128.png | Icon used for application implementation activity
 asset-bundle-builder.zip | Used for bonus activity (no need to distribute it ahead)
 data-checker.zip | Used to perform verification of data modeling activity
 object_definition_extract.zip | Used to import object definition data after data modeling activity
